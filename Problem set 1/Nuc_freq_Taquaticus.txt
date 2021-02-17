@@ -1,0 +1,4 @@
+The nucleotide C appears 737506 times or 34.160196353527134 %.
+The nucleotide G appears 732676 times or 33.936477836813324 %.
+The nucleotide T appears 342558 times or 15.86678419222562 %.
+The nucleotide A appears 346223 times or 16.036541617433926 %.

@@ -1,0 +1,16 @@
+The dinucleotide CT appears 125 times or 7.2379849449913145 %.
+The dinucleotide TA appears 34 times or 1.9687319050376375 %.
+The dinucleotide AG appears 128 times or 7.411696583671105 %.
+The dinucleotide GG appears 229 times or 13.25998841922409 %.
+The dinucleotide GC appears 157 times or 9.090909090909092 %.
+The dinucleotide CG appears 127 times or 7.353792704111176 %.
+The dinucleotide CC appears 283 times or 16.386797915460335 %.
+The dinucleotide TC appears 127 times or 7.353792704111176 %.
+The dinucleotide TT appears 55 times or 3.1847133757961785 %.
+The dinucleotide TG appears 81 times or 4.6902142443543715 %.
+The dinucleotide GA appears 95 times or 5.500868558193399 %.
+The dinucleotide CA appears 79 times or 4.57440648523451 %.
+The dinucleotide GT appears 84 times or 4.863925883034163 %.
+The dinucleotide AA appears 43 times or 2.4898668210770123 %.
+The dinucleotide AC appears 46 times or 2.6635784597568035 %.
+The dinucleotide AT appears 34 times or 1.9687319050376375 %.
